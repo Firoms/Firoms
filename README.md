@@ -1,8 +1,8 @@
-- Hi, I’m Firoms
-- I’m interested in Python(tkinter)/Django/Html&Css/JavaScript
-- I’m currently learning Django
-- I’m Korean student
-- How to reach me : edisonmessi@naver.com
+- ✨Hi, I’m Firoms
+- ✨I’m interested in Python(tkinter)/Django/Html&Css/JavaScript
+- ✨I’m currently learning Django
+- ✨I’m Korean student
+- ✨How to reach me : edisonmessi@naver.com
 
 <!---
 Firoms/Firoms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
