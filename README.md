@@ -1,3 +1,6 @@
+- ✨ 파이썬을 주로 사용하며 GUI, 웹에 관심이 많습니다.
+- ✨ 동탄고등학교에 재학 중입니다.
+
 - ✨ Hi, I’m Firoms
 - ✨ I’m interested in Python(tkinter)/Django/Html&Css/JavaScript
 - ✨ I’m currently learning Django
