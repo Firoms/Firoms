@@ -29,7 +29,7 @@
 <br><br>
 
 ### 
-<a href="#">[![Firoms's github stats](https://github-readme-stats.vercel.app/api?username=Firoms)](https://github.com/firoms/github-readme-stats)</a>
+[![Firoms's github stats](https://github-readme-stats.vercel.app/api?username=Firoms)](https://github.com/firoms)
 
 <!---
 Firoms/Firoms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
