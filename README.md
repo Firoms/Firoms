@@ -1,4 +1,4 @@
-![longlongbackground](https://user-images.githubusercontent.com/63716450/126274340-eb4f6475-4099-4904-8993-118c25fa55b8.png)
+<a href="#">![longlongbackground](https://user-images.githubusercontent.com/63716450/126274340-eb4f6475-4099-4904-8993-118c25fa55b8.png)</a>
 
 # 🎈 Hi Everyone~
 <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffiroms&count_bg=%2394DDDE&title_bg=%23294A4D&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
@@ -29,7 +29,7 @@
 <br><br>
 
 ### 
-[![Firoms's github stats](https://github-readme-stats.vercel.app/api?username=Firoms)](https://github.com/firoms/github-readme-stats)
+<a href="#">[![Firoms's github stats](https://github-readme-stats.vercel.app/api?username=Firoms)](https://github.com/firoms/github-readme-stats)</a>
 
 <!---
 Firoms/Firoms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
